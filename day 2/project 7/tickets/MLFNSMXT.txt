@@ -11,3 +11,4 @@ Prio: Urgent
 Activity Log:
 2026-02-09T22:15:00.000+01:00 - User reported: "The screen is cracked too". Damage description updated.
 2023-10-27T10:00:00.000+01:00 - New laptop was shipped today. Tobias should update the ticket to closed once he receives his new laptop.
+2024-05-13T12:00:00.000+01:00 - New laptop was shipped today. Tobias should update the ticket to closed once he receives his new laptop.
